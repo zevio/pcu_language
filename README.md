@@ -17,7 +17,7 @@ To install requirements, go to pcu_language/ directory and execute the Makefile 
 
 `make init`
 
-# Usage in another project
+## Usage in another project
 
 If you wish to import this module in another Python project, please install it :
 
