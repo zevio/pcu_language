@@ -17,9 +17,19 @@ To install requirements, go to pcu_language/ directory and execute the Makefile 
 
 `make init`
 
-If you wish to import this module in another Python project, please use this import :
+# Usage in another project
 
-`import pcu_language`
+If you wish to import this module in another Python project, please install it :
+
+`pip install pcu-language`
+
+Then, add this import line at the beginning of your Python file :
+
+`from pcu_langage import pcu_language`
+
+You can now use pcu_language's functions, for example :
+
+`pcu_language.detectLanguage("path/to/txt/file")`
 
 ## Test
 
