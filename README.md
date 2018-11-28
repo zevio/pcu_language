@@ -4,12 +4,14 @@ From the path of a text file, detect the main language/all languages used within
 
 Based on [langdetect][langdetect].
 
+![language](https://framapic.org/nY62APFOVnMW/WVYoU9shHZkP.png)
+
+----
+
 [Check PCU project][pcu].
 
 [langdetect]:https://pypi.org/project/langdetect/
 [pcu]: https://github.com/zevio/pcu_core
-
-----
 
 ## Installation
 
